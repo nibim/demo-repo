@@ -9,4 +9,4 @@ A new update on our commands.
 
 ## Local Development
 
-1. Open indeh.html in your browser.
+1. Open indeh.html in your browser!
